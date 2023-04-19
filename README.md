@@ -8,6 +8,5 @@ Dicord: https://discord.gg/5Zj3pxbSDu
 
 Features:
 » Pausemenu title with your Name of the server and color
-» Dependencie for: bandzukáč_font or your custom
 ------------------------------------------------------
 Thanks for dowloading, Bandzukáč.
